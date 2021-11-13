@@ -1,0 +1,19 @@
+{
+  "main": {
+    "windows" : {
+      "navvo" : {
+        "properties" : { "fullscreen" : "oh yeah" },
+        "widgets" : {
+          
+            "Dice Tray" : {
+		    "type" : "dice tray"
+		},
+            "Dice Buildings" : {
+		    "type" : "buildings"
+		}
+           
+        }
+      }
+    }  
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "clear": [],
+  "name" : "afternoon",
+  "ktx": { "string": "default_env", "number": 15 },
+  "directoinal light" : 85,   
+  "camera" : { "aperture": 1, "shutterSpeed": 0.045, "sensitivity": 58,
+    		"position_x": 25, "position_y": 4, "position_z": 1,
+  		"lookat_x": 0, "lookat_y": 2, "lookat_z": 0 },  
+  "tree" : [
+    	{ "entity" : "anthill", "transform": "yes", "position": [0, 0, 0] },
+    	{ "entity" : "big wall", "transform": "yes", "position": [0, 0, 0] }
+  ],
+  "ui" :
+  {
+    "refs" : [ "main" ]
+  }
+}
+
+

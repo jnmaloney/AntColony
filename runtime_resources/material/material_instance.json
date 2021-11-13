@@ -1,0 +1,14 @@
+{
+  "MaterialXX" : {
+    "shader": "ValueTransparent",
+    "params": {
+      "albedo": [0.0399, 0.0399, 0.0399, 0.93]
+    }
+  },
+  "WindowXX" : {
+    "shader": "ValueTransparent",
+    "params": {
+      "albedo": [0.0399, 0.0399, 0.0399, 0.73]
+    }
+  }
+}

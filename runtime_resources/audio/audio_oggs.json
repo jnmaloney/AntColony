@@ -1,0 +1,9 @@
+{
+  "coin": "audio/drop_001.ogg",  
+  "drop": "audio/drop_001.ogg",  
+  "place": "audio/SFX_dice_placing_1.ogg",  
+  "morning": "audio/SFX_next_phase_morning.ogg",  
+  "afternoon": "audio/SFX_next_phase_afternoon.ogg",  
+  "night": "audio/SFX_dice_new_roll.ogg"
+}
+

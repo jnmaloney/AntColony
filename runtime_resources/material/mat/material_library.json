@@ -1,0 +1,4 @@
+{
+  "gltfio_lit" : { "src": "material/mat/gltf_hack.matc" },
+  "gltf_nice" : { "src": "material/mat/gltf_too.matc" }
+}
